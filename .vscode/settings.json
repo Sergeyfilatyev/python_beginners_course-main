@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "_07_lists"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
